@@ -1,0 +1,5 @@
+version: 3
+    
+    images: openjdk:1.8
+
+    container_name: pathcloud-server-pages
