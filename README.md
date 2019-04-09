@@ -1,0 +1,2 @@
+# GitInPracticeRedux
+Git in Practice
