@@ -3,3 +3,4 @@ Hello Java
 Hello JavaScript
 This message from a test repository locally
 Test git fetch
+I wanna perform git checkout --force
